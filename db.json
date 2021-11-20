@@ -1,0 +1,23 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombreProducto": "Cafe con leche",
+      "precioProducto": "60",
+      "categoria": "bedida-caliente"
+    },
+    {
+      "id": 2,
+      "nombreProducto": "Medialuna",
+      "precioProducto": "20",
+      "categoria": ""
+    },
+    {
+      "id": 3,
+      "nombreProducto": "Cafe",
+      "precioProducto": "50",
+      "categoria": "bedida-caliente"
+    }
+  ]
+  
+}
